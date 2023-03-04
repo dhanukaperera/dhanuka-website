@@ -28,7 +28,7 @@ export default function Home() {
 				<div className="container">
 					<div className="my-5"></div>
 					<div className="display-3" style={{ color: "#FF8A00" }}>
-						<span style={{ color: "white" }}>Hello, I'm</span>{" "}
+						<span style={{ color: "white" }}>Hello, I&apos;m</span>{" "}
 						<br />
 						Dhanuka.
 					</div>
